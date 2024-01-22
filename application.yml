@@ -1,4 +1,4 @@
 eureka:
    client:
         service-uri:
-           defaultZone: http://localhost:8761/eureka/
+           defaultZone: http://ec2-13-201-118-119.ap-south-1.compute.amazonaws.com:8761/eureka/
